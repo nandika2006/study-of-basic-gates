@@ -64,26 +64,17 @@ Y= A⊕B
 
 **PROGRAM**
 ```
+![image](https://github.com/user-attachments/assets/c52c7a82-b52c-4cac-8727-19391b2554c9)
 
-module EXP_1(a,b,f1,f2,f3,f4,f5,f6,f7);
-input a,b;
-output f1,f2,f3,f4,f5,f6,f7;
-assign f1=a&b;
-assign f2=a|b;
-assign f3=~a;
-assign f4=~f1;
-assign f5=~f2;
-assign f6=a^b;
-assign f7=~(a^b);
-endmodule
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 24010030
 ```
  
-**Logic symbol & Truthtable**![image](https://github.com/user-attachments/assets/5cf5b59d-4911-4c29-964c-d503c83ddf9b)
+**Logic symbol & Truthtable**
 
-**RTL realization Output:** ![image](https://github.com/user-attachments/assets/2e7faa0f-4556-487a-8491-e08b1de503cc)
+![image](https://github.com/user-attachments/assets/5cf5b59d-4911-4c29-964c-d503c83ddf9b)
+
+**RTL realization Output:** 
+
+![Screenshot 2024-11-28 114851](https://github.com/user-attachments/assets/3d716c05-912a-4916-9120-1549825b5741)
 
 **timing waveform**![waveform](https://github.com/user-attachments/assets/ec8e6434-d9f8-45e2-813a-3bba2412169f)
 
