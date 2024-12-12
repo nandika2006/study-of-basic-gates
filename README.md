@@ -1,11 +1,8 @@
-EXPERIMENT-1
-
 **NAME:** Nandika S
 
 **REG-NO:** 24010030
 
-### study-of-basic-gates
-
+## EXPERIMENT-1 STUDY OF BASIC GATES 
 
 **AIM:** 
 
